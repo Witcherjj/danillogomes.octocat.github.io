@@ -1,0 +1,17 @@
+[
+  {
+    "title": "TRT23 Wi-Fi Optimization",
+    "description": "Designed and deployed high-availability Wi-Fi infrastructure for the 23º TRT.",
+    "link": "#"
+  },
+  {
+    "title": "Fortinet Firewall Deployment",
+    "description": "Implemented enterprise firewall policies and VPNs using Fortinet solutions.",
+    "link": "#"
+  },
+  {
+    "title": "Hyper-V Virtualization",
+    "description": "Managed Hyper-V clusters for resource optimization and disaster recovery.",
+    "link": "#"
+  }
+]
